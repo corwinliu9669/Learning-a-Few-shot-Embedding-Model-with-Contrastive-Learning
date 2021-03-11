@@ -21,4 +21,4 @@ and appealing performance on tieredImageNet, FewshotCIFAR100 (FC-100).
 [AAAI Preprint](https://www.aaai.org/AAAI21Papers/AAAI-2249.LiuC.pdf)
 
 ## Pretrain Weight
-[miniImageNet]https://drive.google.com/drive/folders/1k7bJrBMucPWB3FVeXq0ay1xQOVTJAHFv?usp=sharing
+[ResNet-12](https://drive.google.com/drive/folders/1k7bJrBMucPWB3FVeXq0ay1xQOVTJAHFv?usp=sharing)
